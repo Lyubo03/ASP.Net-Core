@@ -1,0 +1,17 @@
+D:\asp.net Core MVC\Exercises\WebApplication1\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\asp.net Core MVC\Exercises\WebApplication1\bin\Debug\netcoreapp2.2\appsettings.json
+D:\asp.net Core MVC\Exercises\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+D:\asp.net Core MVC\Exercises\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+D:\asp.net Core MVC\Exercises\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+D:\asp.net Core MVC\Exercises\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+D:\asp.net Core MVC\Exercises\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+D:\asp.net Core MVC\Exercises\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+D:\asp.net Core MVC\Exercises\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+D:\asp.net Core MVC\Exercises\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CoreCompileInputs.cache
+D:\asp.net Core MVC\Exercises\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+D:\asp.net Core MVC\Exercises\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\asp.net Core MVC\Exercises\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+D:\asp.net Core MVC\Exercises\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+D:\asp.net Core MVC\Exercises\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+﻿@model IEnumerable<HomePageCarViewModel>
+@{ this.ViewData["Title"] = "Home Page"; }
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to FordCars!</h1>
+</div>
+
+@foreach (var car in Model.ToList())
+{
+    <h2>@car.ModelName: @car.Title</h2>
+}

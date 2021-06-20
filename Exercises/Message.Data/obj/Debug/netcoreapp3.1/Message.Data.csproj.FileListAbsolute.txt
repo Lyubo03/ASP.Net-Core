@@ -1,0 +1,12 @@
+D:\asp.net Core MVC\Exercises\Message.Data\bin\Debug\netcoreapp3.1\Message.Data.deps.json
+D:\asp.net Core MVC\Exercises\Message.Data\bin\Debug\netcoreapp3.1\Message.Data.dll
+D:\asp.net Core MVC\Exercises\Message.Data\bin\Debug\netcoreapp3.1\Message.Data.pdb
+D:\asp.net Core MVC\Exercises\Message.Data\bin\Debug\netcoreapp3.1\Message.Domain.dll
+D:\asp.net Core MVC\Exercises\Message.Data\bin\Debug\netcoreapp3.1\Message.Domain.pdb
+D:\asp.net Core MVC\Exercises\Message.Data\obj\Debug\netcoreapp3.1\Message.Data.csprojAssemblyReference.cache
+D:\asp.net Core MVC\Exercises\Message.Data\obj\Debug\netcoreapp3.1\Message.Data.AssemblyInfoInputs.cache
+D:\asp.net Core MVC\Exercises\Message.Data\obj\Debug\netcoreapp3.1\Message.Data.AssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\Message.Data\obj\Debug\netcoreapp3.1\Message.Data.csproj.CoreCompileInputs.cache
+D:\asp.net Core MVC\Exercises\Message.Data\obj\Debug\netcoreapp3.1\Message.Data.csproj.CopyComplete
+D:\asp.net Core MVC\Exercises\Message.Data\obj\Debug\netcoreapp3.1\Message.Data.dll
+D:\asp.net Core MVC\Exercises\Message.Data\obj\Debug\netcoreapp3.1\Message.Data.pdb

@@ -1,0 +1,26 @@
+﻿.bg-eventures {
+    background-color: #AFEEEE;
+}
+
+.text-eventures {
+    color: #AFEEEE;
+}
+
+hr.hr-2 {
+    height: 2px;
+}
+.w-45{
+    width:45%
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+.row {
+    width:98%
+}

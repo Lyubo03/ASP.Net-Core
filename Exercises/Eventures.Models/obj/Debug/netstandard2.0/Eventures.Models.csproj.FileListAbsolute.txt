@@ -1,0 +1,9 @@
+D:\asp.net Core MVC\Exercises\Eventures.Models\bin\Debug\netstandard2.0\Eventures.Models.deps.json
+D:\asp.net Core MVC\Exercises\Eventures.Models\bin\Debug\netstandard2.0\Eventures.Models.dll
+D:\asp.net Core MVC\Exercises\Eventures.Models\bin\Debug\netstandard2.0\Eventures.Models.pdb
+D:\asp.net Core MVC\Exercises\Eventures.Models\obj\Debug\netstandard2.0\Eventures.Models.csprojAssemblyReference.cache
+D:\asp.net Core MVC\Exercises\Eventures.Models\obj\Debug\netstandard2.0\Eventures.Models.AssemblyInfoInputs.cache
+D:\asp.net Core MVC\Exercises\Eventures.Models\obj\Debug\netstandard2.0\Eventures.Models.AssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\Eventures.Models\obj\Debug\netstandard2.0\Eventures.Models.csproj.CoreCompileInputs.cache
+D:\asp.net Core MVC\Exercises\Eventures.Models\obj\Debug\netstandard2.0\Eventures.Models.dll
+D:\asp.net Core MVC\Exercises\Eventures.Models\obj\Debug\netstandard2.0\Eventures.Models.pdb

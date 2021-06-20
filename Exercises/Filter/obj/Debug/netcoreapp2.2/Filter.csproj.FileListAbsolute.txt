@@ -1,0 +1,12 @@
+D:\asp.net Core MVC\Exercises\Filter\bin\Debug\netcoreapp2.2\Filter.deps.json
+D:\asp.net Core MVC\Exercises\Filter\bin\Debug\netcoreapp2.2\Filter.runtimeconfig.json
+D:\asp.net Core MVC\Exercises\Filter\bin\Debug\netcoreapp2.2\Filter.runtimeconfig.dev.json
+D:\asp.net Core MVC\Exercises\Filter\bin\Debug\netcoreapp2.2\Filter.dll
+D:\asp.net Core MVC\Exercises\Filter\bin\Debug\netcoreapp2.2\Filter.pdb
+D:\asp.net Core MVC\Exercises\Filter\obj\Debug\netcoreapp2.2\Filter.csprojAssemblyReference.cache
+D:\asp.net Core MVC\Exercises\Filter\obj\Debug\netcoreapp2.2\Filter.AssemblyInfoInputs.cache
+D:\asp.net Core MVC\Exercises\Filter\obj\Debug\netcoreapp2.2\Filter.AssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\Filter\obj\Debug\netcoreapp2.2\Filter.csproj.CoreCompileInputs.cache
+D:\asp.net Core MVC\Exercises\Filter\obj\Debug\netcoreapp2.2\Filter.dll
+D:\asp.net Core MVC\Exercises\Filter\obj\Debug\netcoreapp2.2\Filter.pdb
+D:\asp.net Core MVC\Exercises\Filter\obj\Debug\netcoreapp2.2\Filter.genruntimeconfig.cache

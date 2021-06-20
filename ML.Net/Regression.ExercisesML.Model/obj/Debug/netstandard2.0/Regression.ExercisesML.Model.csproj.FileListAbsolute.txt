@@ -1,0 +1,10 @@
+D:\asp.net Core MVC\ML.Net\Regression.ExercisesML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\asp.net Core MVC\ML.Net\Regression.ExercisesML.Model\bin\Debug\netstandard2.0\Regression.ExercisesML.Model.deps.json
+D:\asp.net Core MVC\ML.Net\Regression.ExercisesML.Model\bin\Debug\netstandard2.0\Regression.ExercisesML.Model.dll
+D:\asp.net Core MVC\ML.Net\Regression.ExercisesML.Model\bin\Debug\netstandard2.0\Regression.ExercisesML.Model.pdb
+D:\asp.net Core MVC\ML.Net\Regression.ExercisesML.Model\obj\Debug\netstandard2.0\Regression.ExercisesML.Model.csprojAssemblyReference.cache
+D:\asp.net Core MVC\ML.Net\Regression.ExercisesML.Model\obj\Debug\netstandard2.0\Regression.ExercisesML.Model.AssemblyInfoInputs.cache
+D:\asp.net Core MVC\ML.Net\Regression.ExercisesML.Model\obj\Debug\netstandard2.0\Regression.ExercisesML.Model.AssemblyInfo.cs
+D:\asp.net Core MVC\ML.Net\Regression.ExercisesML.Model\obj\Debug\netstandard2.0\Regression.ExercisesML.Model.csproj.CoreCompileInputs.cache
+D:\asp.net Core MVC\ML.Net\Regression.ExercisesML.Model\obj\Debug\netstandard2.0\Regression.ExercisesML.Model.dll
+D:\asp.net Core MVC\ML.Net\Regression.ExercisesML.Model\obj\Debug\netstandard2.0\Regression.ExercisesML.Model.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pifqomCGWzNepmpl6O8w9IVtpQlYdACgDdhhaJoOlJ6tI1b+83cDpc9oDUtHMSgU0X+RwCc4Y3sNFnjdgsoXCw==",
+  "success": true,
+  "projectFilePath": "D:\\asp.net Core MVC\\Ford\\src\\Services\\AspNetCoreTemplate.Services\\AspNetCoreTemplate.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lubos\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\lubos\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

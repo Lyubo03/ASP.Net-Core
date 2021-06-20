@@ -1,0 +1,35 @@
+﻿@model List<Eventures.App.Models.Event.EventDetailsBindingModel>
+@{
+    ViewData["Title"] = "All";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="dataHolder" class="w-75 mx-auto">
+    <h1 class="text-center">All Events</h1>
+    <hr class="hr-2 bg-eventures" />
+
+    <table class="table">
+        <thead>
+            <tr class="row mx-auto">
+                <th class="col-md-1"><h3>#</h3></th>
+                <th class="col-md-5"><h3>Name</h3></th>
+                <th class="col-md-2"><h3>Start</h3></th>
+                <th class="col-md-2"><h3>End</h3></th>
+                <th class="col-md-2"><h3>Place</h3></th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Count(); i++)
+            {
+                <tr class="row mx-auto">
+                    <td class="col-md-1"><h5>@(i + 1)</h5></td>
+                    <td class="col-md-5"><h5>@Model[i].Name</h5></td>
+                    <td class="col-md-2"><h5>@Model[i].Start</h5></td>
+                    <td class="col-md-2"><h5>@Model[i].End</h5></td>
+                    <td class="col-md-2"><h5>@Model[i].Place</h5></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <hr class="hr-2 bg-eventures" />
+</div>

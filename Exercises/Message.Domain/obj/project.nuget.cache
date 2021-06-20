@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "I6QcuS5QVDeSwNxPmvQ+F/ajCXM1Q92AoHNY9/p0+H9bYNTsvjYCHKsFlgO0JPzTdqe6uPi7E6txn+uLt6WH+g==",
+  "success": true,
+  "projectFilePath": "D:\\asp.net Core MVC\\Exercises\\Message.Domain\\Message.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\lubos\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

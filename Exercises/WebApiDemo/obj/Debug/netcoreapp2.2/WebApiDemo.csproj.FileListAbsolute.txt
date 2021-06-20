@@ -1,0 +1,17 @@
+D:\asp.net Core MVC\Exercises\WebApiDemo\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\asp.net Core MVC\Exercises\WebApiDemo\bin\Debug\netcoreapp2.2\appsettings.json
+D:\asp.net Core MVC\Exercises\WebApiDemo\bin\Debug\netcoreapp2.2\WebApiDemo.deps.json
+D:\asp.net Core MVC\Exercises\WebApiDemo\bin\Debug\netcoreapp2.2\WebApiDemo.runtimeconfig.json
+D:\asp.net Core MVC\Exercises\WebApiDemo\bin\Debug\netcoreapp2.2\WebApiDemo.runtimeconfig.dev.json
+D:\asp.net Core MVC\Exercises\WebApiDemo\bin\Debug\netcoreapp2.2\WebApiDemo.dll
+D:\asp.net Core MVC\Exercises\WebApiDemo\bin\Debug\netcoreapp2.2\WebApiDemo.pdb
+D:\asp.net Core MVC\Exercises\WebApiDemo\obj\Debug\netcoreapp2.2\WebApiDemo.csprojAssemblyReference.cache
+D:\asp.net Core MVC\Exercises\WebApiDemo\obj\Debug\netcoreapp2.2\WebApiDemo.AssemblyInfoInputs.cache
+D:\asp.net Core MVC\Exercises\WebApiDemo\obj\Debug\netcoreapp2.2\WebApiDemo.AssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\WebApiDemo\obj\Debug\netcoreapp2.2\WebApiDemo.csproj.CoreCompileInputs.cache
+D:\asp.net Core MVC\Exercises\WebApiDemo\obj\Debug\netcoreapp2.2\WebApiDemo.RazorAssemblyInfo.cache
+D:\asp.net Core MVC\Exercises\WebApiDemo\obj\Debug\netcoreapp2.2\WebApiDemo.RazorAssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\WebApiDemo\obj\Debug\netcoreapp2.2\WebApiDemo.RazorTargetAssemblyInfo.cache
+D:\asp.net Core MVC\Exercises\WebApiDemo\obj\Debug\netcoreapp2.2\WebApiDemo.dll
+D:\asp.net Core MVC\Exercises\WebApiDemo\obj\Debug\netcoreapp2.2\WebApiDemo.pdb
+D:\asp.net Core MVC\Exercises\WebApiDemo\obj\Debug\netcoreapp2.2\WebApiDemo.genruntimeconfig.cache

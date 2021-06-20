@@ -1,0 +1,16 @@
+﻿@model CatDetailsModel
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Cat Page</h1>
+<hr/>
+<img src="@Model.ImageUrl" style="width: 300px; align-content:center">
+
+<p>Name: @Model.Name</p>
+
+<p>Age: @Model.Age</p>
+
+<p>Breed: @Model.Breed</p>
+

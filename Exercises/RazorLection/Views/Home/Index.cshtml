@@ -1,0 +1,9 @@
+﻿@inject IUserService UserService
+@model IndexViewModel
+@inject IHostingEnvironment envinronment
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<h1>@envinronment.EnvironmentName</h1>
+

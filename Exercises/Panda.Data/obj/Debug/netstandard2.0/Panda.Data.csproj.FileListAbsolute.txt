@@ -1,0 +1,12 @@
+D:\asp.net Core MVC\Exercises\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.deps.json
+D:\asp.net Core MVC\Exercises\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.dll
+D:\asp.net Core MVC\Exercises\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.pdb
+D:\asp.net Core MVC\Exercises\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.csprojAssemblyReference.cache
+D:\asp.net Core MVC\Exercises\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.AssemblyInfoInputs.cache
+D:\asp.net Core MVC\Exercises\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.AssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.csproj.CoreCompileInputs.cache
+D:\asp.net Core MVC\Exercises\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.dll
+D:\asp.net Core MVC\Exercises\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.pdb
+D:\asp.net Core MVC\Exercises\Panda.Data\bin\Debug\netstandard2.0\Panda.Domain.dll
+D:\asp.net Core MVC\Exercises\Panda.Data\bin\Debug\netstandard2.0\Panda.Domain.pdb
+D:\asp.net Core MVC\Exercises\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.csproj.CopyComplete

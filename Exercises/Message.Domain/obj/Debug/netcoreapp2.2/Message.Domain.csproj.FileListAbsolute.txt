@@ -1,0 +1,9 @@
+D:\asp.net Core MVC\Exercises\Message.Domain\bin\Debug\netcoreapp2.2\Message.Domain.deps.json
+D:\asp.net Core MVC\Exercises\Message.Domain\bin\Debug\netcoreapp2.2\Message.Domain.dll
+D:\asp.net Core MVC\Exercises\Message.Domain\bin\Debug\netcoreapp2.2\Message.Domain.pdb
+D:\asp.net Core MVC\Exercises\Message.Domain\obj\Debug\netcoreapp2.2\Message.Domain.csprojAssemblyReference.cache
+D:\asp.net Core MVC\Exercises\Message.Domain\obj\Debug\netcoreapp2.2\Message.Domain.AssemblyInfoInputs.cache
+D:\asp.net Core MVC\Exercises\Message.Domain\obj\Debug\netcoreapp2.2\Message.Domain.AssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\Message.Domain\obj\Debug\netcoreapp2.2\Message.Domain.csproj.CoreCompileInputs.cache
+D:\asp.net Core MVC\Exercises\Message.Domain\obj\Debug\netcoreapp2.2\Message.Domain.dll
+D:\asp.net Core MVC\Exercises\Message.Domain\obj\Debug\netcoreapp2.2\Message.Domain.pdb

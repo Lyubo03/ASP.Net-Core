@@ -1,0 +1,13 @@
+D:\asp.net Core MVC\Exercises\WorkingWithData.Tests\bin\Debug\netstandard2.0\xunit.runner.visualstudio.testadapter.dll
+D:\asp.net Core MVC\Exercises\WorkingWithData.Tests\bin\Debug\netstandard2.0\xunit.runner.reporters.net452.dll
+D:\asp.net Core MVC\Exercises\WorkingWithData.Tests\bin\Debug\netstandard2.0\xunit.runner.utility.net452.dll
+D:\asp.net Core MVC\Exercises\WorkingWithData.Tests\bin\Debug\netstandard2.0\xunit.abstractions.dll
+D:\asp.net Core MVC\Exercises\WorkingWithData.Tests\bin\Debug\netstandard2.0\WorkingWithData.Tests.deps.json
+D:\asp.net Core MVC\Exercises\WorkingWithData.Tests\bin\Debug\netstandard2.0\WorkingWithData.Tests.dll
+D:\asp.net Core MVC\Exercises\WorkingWithData.Tests\bin\Debug\netstandard2.0\WorkingWithData.Tests.pdb
+D:\asp.net Core MVC\Exercises\WorkingWithData.Tests\obj\Debug\netstandard2.0\WorkingWithData.Tests.csprojAssemblyReference.cache
+D:\asp.net Core MVC\Exercises\WorkingWithData.Tests\obj\Debug\netstandard2.0\WorkingWithData.Tests.AssemblyInfoInputs.cache
+D:\asp.net Core MVC\Exercises\WorkingWithData.Tests\obj\Debug\netstandard2.0\WorkingWithData.Tests.AssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\WorkingWithData.Tests\obj\Debug\netstandard2.0\WorkingWithData.Tests.csproj.CoreCompileInputs.cache
+D:\asp.net Core MVC\Exercises\WorkingWithData.Tests\obj\Debug\netstandard2.0\WorkingWithData.Tests.dll
+D:\asp.net Core MVC\Exercises\WorkingWithData.Tests\obj\Debug\netstandard2.0\WorkingWithData.Tests.pdb

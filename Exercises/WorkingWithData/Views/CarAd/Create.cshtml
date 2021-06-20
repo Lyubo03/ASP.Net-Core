@@ -1,0 +1,49 @@
+﻿@model WorkingWithData.Models.CarAd.CreateInputModel
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+<hr />
+
+<form asp-controller="CarAd" asp-action="Create" method="post">
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+        <label asp-for="Car.Model">Model: </label>
+        <input asp-for="Car.Model" placeholder="Car.." class="form-control" />
+        <span asp-validation-for="Car.Model" class="text-danger"></span> <br />
+
+        <label asp-for="Car.Brand">Brand: </label>
+        <input asp-for="Car.Brand" placeholder="Make.." class="form-control" data-val="false" />
+        <span asp-validation-for="Car.Brand" class="text-danger"></span> <br />
+
+        <label asp-for="Type">Car Type: </label><br />
+        <select asp-for="Type" asp-items="@Html.GetEnumSelectList<CarType>()" class="form-control">
+        </select> <br />
+
+        <label asp-for="ReleaseDate">Year: </label>
+        <input asp-for="ReleaseDate" placeholder="Realesa date.." class="form-control" />
+        <span asp-validation-for="ReleaseDate" class="text-danger"></span> <br />
+
+        <label asp-for="Year">Year: </label>
+        <input asp-for="Year" placeholder="Year.." class="form-control" />
+        <span asp-validation-for="Year" class="text-danger"></span> <br />
+
+        <label asp-for="Price">Price: </label>
+        <input asp-for="Price" placeholder="Price.." class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span> <br />
+
+        <label asp-for="Image">Image: </label><br />
+        <input asp-for="Image" /> <br />
+
+        <label asp-for="Description">Description: </label>
+        <textarea rows="10" cols="40" asp-for="Description" class="form-control">Describe the car...</textarea> <br />
+        <input type="submit" />
+
+</form>
+@section Scripts
+{
+<partial name="_ValidationScriptsPartial">
+} 

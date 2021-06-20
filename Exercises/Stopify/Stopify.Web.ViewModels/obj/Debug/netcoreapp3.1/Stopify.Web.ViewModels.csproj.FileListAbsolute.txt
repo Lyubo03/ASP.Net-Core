@@ -1,0 +1,9 @@
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Web.ViewModels\bin\Debug\netcoreapp3.1\Stopify.Web.ViewModels.deps.json
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Web.ViewModels\bin\Debug\netcoreapp3.1\Stopify.Web.ViewModels.dll
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Web.ViewModels\bin\Debug\netcoreapp3.1\Stopify.Web.ViewModels.pdb
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Web.ViewModels\obj\Debug\netcoreapp3.1\Stopify.Web.ViewModels.csprojAssemblyReference.cache
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Web.ViewModels\obj\Debug\netcoreapp3.1\Stopify.Web.ViewModels.AssemblyInfoInputs.cache
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Web.ViewModels\obj\Debug\netcoreapp3.1\Stopify.Web.ViewModels.AssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Web.ViewModels\obj\Debug\netcoreapp3.1\Stopify.Web.ViewModels.csproj.CoreCompileInputs.cache
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Web.ViewModels\obj\Debug\netcoreapp3.1\Stopify.Web.ViewModels.dll
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Web.ViewModels\obj\Debug\netcoreapp3.1\Stopify.Web.ViewModels.pdb

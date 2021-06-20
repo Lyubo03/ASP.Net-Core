@@ -1,0 +1,9 @@
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Mapping\bin\Debug\netcoreapp2.2\Stopify.Services.Mapping.deps.json
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Mapping\bin\Debug\netcoreapp2.2\Stopify.Services.Mapping.dll
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Mapping\bin\Debug\netcoreapp2.2\Stopify.Services.Mapping.pdb
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Mapping\obj\Debug\netcoreapp2.2\Stopify.Services.Mapping.csprojAssemblyReference.cache
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Mapping\obj\Debug\netcoreapp2.2\Stopify.Services.Mapping.AssemblyInfoInputs.cache
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Mapping\obj\Debug\netcoreapp2.2\Stopify.Services.Mapping.AssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Mapping\obj\Debug\netcoreapp2.2\Stopify.Services.Mapping.csproj.CoreCompileInputs.cache
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Mapping\obj\Debug\netcoreapp2.2\Stopify.Services.Mapping.dll
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Mapping\obj\Debug\netcoreapp2.2\Stopify.Services.Mapping.pdb

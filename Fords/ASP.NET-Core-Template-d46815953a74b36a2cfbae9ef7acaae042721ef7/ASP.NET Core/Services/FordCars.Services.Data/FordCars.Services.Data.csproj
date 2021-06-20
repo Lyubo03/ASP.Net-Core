@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <CodeAnalysisRuleSet>..\..\Rules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <AdditionalFiles Include="..\..\stylecop.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\FordCars.Data.Common\FordCars.Data.Common.csproj" />
+    <ProjectReference Include="..\..\Data\FordCars.Data.Models\FordCars.Data.Models.csproj" />
+    <ProjectReference Include="..\FordCars.Services.Mapping\FordCars.Services.Mapping.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+D:\asp.net Core MVC\Exercises\Middleware\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\asp.net Core MVC\Exercises\Middleware\bin\Debug\netcoreapp2.2\appsettings.json
+D:\asp.net Core MVC\Exercises\Middleware\bin\Debug\netcoreapp2.2\Middleware.deps.json
+D:\asp.net Core MVC\Exercises\Middleware\bin\Debug\netcoreapp2.2\Middleware.runtimeconfig.json
+D:\asp.net Core MVC\Exercises\Middleware\bin\Debug\netcoreapp2.2\Middleware.runtimeconfig.dev.json
+D:\asp.net Core MVC\Exercises\Middleware\bin\Debug\netcoreapp2.2\Middleware.dll
+D:\asp.net Core MVC\Exercises\Middleware\bin\Debug\netcoreapp2.2\Middleware.pdb
+D:\asp.net Core MVC\Exercises\Middleware\obj\Debug\netcoreapp2.2\Middleware.AssemblyInfoInputs.cache
+D:\asp.net Core MVC\Exercises\Middleware\obj\Debug\netcoreapp2.2\Middleware.AssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\Middleware\obj\Debug\netcoreapp2.2\Middleware.csproj.CoreCompileInputs.cache
+D:\asp.net Core MVC\Exercises\Middleware\obj\Debug\netcoreapp2.2\Middleware.RazorAssemblyInfo.cache
+D:\asp.net Core MVC\Exercises\Middleware\obj\Debug\netcoreapp2.2\Middleware.RazorAssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\Middleware\obj\Debug\netcoreapp2.2\Middleware.RazorTargetAssemblyInfo.cache
+D:\asp.net Core MVC\Exercises\Middleware\obj\Debug\netcoreapp2.2\Middleware.dll
+D:\asp.net Core MVC\Exercises\Middleware\obj\Debug\netcoreapp2.2\Middleware.pdb
+D:\asp.net Core MVC\Exercises\Middleware\obj\Debug\netcoreapp2.2\Middleware.genruntimeconfig.cache
+D:\asp.net Core MVC\Exercises\Middleware\obj\Debug\netcoreapp2.2\Middleware.csprojAssemblyReference.cache

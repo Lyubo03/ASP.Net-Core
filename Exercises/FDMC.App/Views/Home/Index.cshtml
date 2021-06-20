@@ -1,0 +1,15 @@
+﻿@model List<CatDetailsModel>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1 style="text-align:center">Fluffy Duffy Munckin Cats</h1>
+<hr />
+
+@if (Model.Any())
+{
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        <li><a asp-controller="Cat" asp-action="Details" asp-route-id="@Model[i].Id"> @Model[i].Name</a></li>
+    }
+}

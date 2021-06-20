@@ -1,0 +1,14 @@
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Models\bin\Debug\netcoreapp2.2\Stopify.Services.Models.deps.json
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Models\bin\Debug\netcoreapp2.2\Stopify.Services.Models.dll
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Models\bin\Debug\netcoreapp2.2\Stopify.Services.Models.pdb
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Models\obj\Debug\netcoreapp2.2\Stopify.Services.Models.csprojAssemblyReference.cache
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Models\obj\Debug\netcoreapp2.2\Stopify.Services.Models.AssemblyInfoInputs.cache
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Models\obj\Debug\netcoreapp2.2\Stopify.Services.Models.AssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Models\obj\Debug\netcoreapp2.2\Stopify.Services.Models.csproj.CoreCompileInputs.cache
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Models\obj\Debug\netcoreapp2.2\Stopify.Services.Models.dll
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Models\obj\Debug\netcoreapp2.2\Stopify.Services.Models.pdb
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Models\bin\Debug\netcoreapp2.2\Stopify.Data.Models.dll
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Models\bin\Debug\netcoreapp2.2\Stopify.Services.Mapping.dll
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Models\bin\Debug\netcoreapp2.2\Stopify.Data.Models.pdb
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Models\bin\Debug\netcoreapp2.2\Stopify.Services.Mapping.pdb
+D:\asp.net Core MVC\Exercises\Stopify\Stopify.Services.Models\obj\Debug\netcoreapp2.2\Stopify.Services.Models.csproj.CopyComplete

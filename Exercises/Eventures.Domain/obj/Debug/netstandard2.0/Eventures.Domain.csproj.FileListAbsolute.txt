@@ -1,0 +1,12 @@
+D:\asp.net Core MVC\Exercises\Eventures.Domain\bin\Debug\netstandard2.0\Eventures.Domain.deps.json
+D:\asp.net Core MVC\Exercises\Eventures.Domain\bin\Debug\netstandard2.0\Eventures.Domain.dll
+D:\asp.net Core MVC\Exercises\Eventures.Domain\bin\Debug\netstandard2.0\Eventures.Domain.pdb
+D:\asp.net Core MVC\Exercises\Eventures.Domain\obj\Debug\netstandard2.0\Eventures.Domain.csprojAssemblyReference.cache
+D:\asp.net Core MVC\Exercises\Eventures.Domain\obj\Debug\netstandard2.0\Eventures.Domain.AssemblyInfoInputs.cache
+D:\asp.net Core MVC\Exercises\Eventures.Domain\obj\Debug\netstandard2.0\Eventures.Domain.AssemblyInfo.cs
+D:\asp.net Core MVC\Exercises\Eventures.Domain\obj\Debug\netstandard2.0\Eventures.Domain.csproj.CoreCompileInputs.cache
+D:\asp.net Core MVC\Exercises\Eventures.Domain\obj\Debug\netstandard2.0\Eventures.Domain.dll
+D:\asp.net Core MVC\Exercises\Eventures.Domain\obj\Debug\netstandard2.0\Eventures.Domain.pdb
+D:\asp.net Core MVC\Exercises\Eventures.Domain\bin\Debug\netstandard2.0\Eventures.Models.dll
+D:\asp.net Core MVC\Exercises\Eventures.Domain\bin\Debug\netstandard2.0\Eventures.Models.pdb
+D:\asp.net Core MVC\Exercises\Eventures.Domain\obj\Debug\netstandard2.0\Eventures.Domain.csproj.CopyComplete
